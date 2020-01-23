@@ -1,26 +1,4 @@
 ﻿  d3dclass.cpp
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(30,15): warning C4101: 'numModes': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(43,21): warning C4101: 'screenAspect': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(34,6): warning C4101: 'error': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(26,10): warning C4101: 'result': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(43,8): warning C4101: 'fieldOfView': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(39,27): warning C4101: 'depthStencilDesc': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(32,18): warning C4101: 'displayModeList': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(29,15): warning C4101: 'adapterOutput': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(30,39): warning C4101: 'denominator': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(28,16): warning C4101: 'adapter': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(38,23): warning C4101: 'depthBufferDesc': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(37,19): warning C4101: 'backBufferPtr': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(41,24): warning C4101: 'raterDesc': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(40,32): warning C4101: 'depthStencilViewDesc': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(30,28): warning C4101: 'numerator': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(30,25): warning C4101: 'i': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(42,17): warning C4101: 'viewport': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(33,20): warning C4101: 'adapterDesc': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(36,20): warning C4101: 'featureLevel': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(35,23): warning C4101: 'swapChainDesc': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(31,21): warning C4101: 'stringLength': unreferenced local variable
-C:\Users\J-DT\source\repos\DX11\DX11\d3dclass.cpp(27,16): warning C4101: 'factory': unreferenced local variable
   graphicsclass.cpp
   main.cpp
   systemclass.cpp
