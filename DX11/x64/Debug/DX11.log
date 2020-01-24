@@ -1,6 +1,2 @@
-﻿  d3dclass.cpp
-  graphicsclass.cpp
-  main.cpp
-  systemclass.cpp
-  Generating Code...
+﻿  systemclass.cpp
   DX11.vcxproj -> C:\Users\J-DT\source\repos\DX11\x64\Debug\DX11.exe

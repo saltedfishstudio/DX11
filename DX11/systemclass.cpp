@@ -45,7 +45,7 @@ bool SystemClass::Initialize()
 		return false;
 	}
 
-	return true;
+	return m_Graphics->Initialize(screenWidth, screenHeight, m_hwnd);
 }
 
 void SystemClass::Shutdown()
@@ -211,7 +211,7 @@ void SystemClass::InitializeWindows(int& screenWidth, int& screenHeight)
 	{
 		// if windowed then set it to 800x600 resolution
 		screenWidth = 800;
-		screenHeight = 500;
+		screenHeight = 600;
 
 		// place the window in the middle of the screen
 		posX = (GetSystemMetrics(SM_CXSCREEN) - screenWidth) / 2;

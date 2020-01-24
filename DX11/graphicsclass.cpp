@@ -33,9 +33,6 @@ bool GraphicsClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 	}
 
 	return true;
-
-	
-	return true;
 }
 
 void GraphicsClass::Shutdown()
