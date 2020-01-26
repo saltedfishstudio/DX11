@@ -42,6 +42,9 @@
     <ClInclude Include="modelclass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="cameraclass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -63,6 +66,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="modelclass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cameraclass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
