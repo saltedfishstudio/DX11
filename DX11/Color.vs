@@ -15,8 +15,8 @@ struct PixelInputType {
 	float4 color : COLOR;
 };
 
-PixelInputType ColorVertextShader(VertexInputType input) {
-	PixelInputTYpe output;
+PixelInputType ColorVertexShader(VertexInputType input) {
+	PixelInputType output;
 
 	input.position.w = 1.0f;
 

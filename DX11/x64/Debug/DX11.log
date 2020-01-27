@@ -1,2 +1,8 @@
-﻿  colorshaderclass.cpp
+﻿  cameraclass.cpp
+  colorshaderclass.cpp
+  graphicsclass.cpp
+  main.cpp
+  modelclass.cpp
+  systemclass.cpp
+  Generating Code...
   DX11.vcxproj -> C:\Users\J-DT\source\repos\DX11\x64\Debug\DX11.exe
